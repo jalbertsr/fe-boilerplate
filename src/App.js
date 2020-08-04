@@ -11,6 +11,7 @@ const App = () => (
   <>
     <h1>FE Boilerplate</h1>
     <style jsx>{style}</style>
-  </>;
+  </>
+);
 
 export default App;
